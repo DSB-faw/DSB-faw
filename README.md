@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Bhadooriya
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning tableau and ETL
-- 💞️ I’m looking to collaborate on ML
+- 💞️ I’m looking to collaborate on Product management
 - 📫 How to reach me imdeepakbhadoriya@gmail.com
 
 <!---
